@@ -1,5 +1,5 @@
 ## Welcome to my Profile
-Hello! I'm Andhika Juliawan. Currently studying Information System at Institut Teknologi Telkom Surabaya. I am heavily interested in UI/UX Designer and Web Developer.
+Hello! I'm Andhika Juliawan. Currently studying Information System at Institut Teknologi Telkom Surabaya. I am heavily interested in Mobile Developer and Web Developer.
 
 ### Skill:
 <p align="left">
