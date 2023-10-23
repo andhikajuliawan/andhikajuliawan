@@ -5,8 +5,8 @@ Hello! I'm Andhika Juliawan. Currently studying Information System at Institut T
 <p align="left">
 <a href="https://github.com/andhikajuliawan">
   <img width="370px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andhikajuliawan&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="270px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramadhani059&layout=compact&langs_count=8&hide_border=true&theme=algolia"/>
-<img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=ramadhani059&hide_border=true&theme=algolia">
+  <img width="270px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andhikajuliawan&layout=compact&langs_count=8&hide_border=true&theme=algolia"/>
+<img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=andhikajuliawan&hide_border=true&theme=algolia">
 </a>
 </p>
 
